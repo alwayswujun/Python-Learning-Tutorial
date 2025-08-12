@@ -9,5 +9,8 @@
 ### 3.Python Programming
 
 ### 4.Reference materials
+<<<<<<< HEAD
 
 ### 部分材料来源GitHub
+=======
+>>>>>>> origin/main
